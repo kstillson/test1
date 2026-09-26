@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Calculate factorials."""
+"""Calculate factorials.  v2 """
 
 import argparse
 
